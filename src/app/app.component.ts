@@ -31,6 +31,10 @@ export class AppComponent {
     if (token) {
       this.isVisible = false
     }
+
+    this.authService.notifyObservable$.subscribe(() => {
+      this.isVisible = true
+    });
   }
 
   showModal(): void {
