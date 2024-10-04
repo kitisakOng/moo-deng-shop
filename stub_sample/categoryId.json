@@ -1,0 +1,35 @@
+[
+    {
+        "id": 4,
+        "code": "P001",
+        "name": "Bite Of Wild",
+        "description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "price": 1000.5,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040859Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=0c928cec1cf76c2bfb15f4067996acdf6e6240ed4717f395478e4e76331f3854",
+        "category_id": 1,
+        "mall_id": 1
+    },
+    {
+        "id": 16,
+        "code": "P005",
+        "name": "Whiskas Junior",
+        "description": "อาหารเม็ดสำหรับแมวอายุ 2-12 เดือน รส Ocean Fish (ปลาทะเล) 1.1Kg.",
+        "price": 199,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P005.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040859Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=7c8f6973afcb14f5230341f09d8a494d8aa86c473929b01c99a5e69acb4430c4",
+        "category_id": 1,
+        "mall_id": 13
+    },
+    {
+        "id": 34,
+        "code": "P011",
+        "name": "BUZZ BEYOND",
+        "description": "บัซซ์ อาหารแมว พรีเมียม สูตรเกรนฟรี อาหารชนิดเม็ด อาหารเม็ดแมว 1/1.2 Kg.",
+        "price": 789.5,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P011.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040859Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=0a2e99c66cd0c2e30cdd840f0acd08d9189c1ed9df614830b917ec835b2117a7",
+        "category_id": 1,
+        "mall_id": 19
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Animal food",
+        "description": "Animal food",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/animal_food.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=82633a09c8208b37b2b0852b79d87762282d0a93d8f42e18f4db89734bbc9dd9"
+    },
+    {
+        "id": 4,
+        "name": "Pet supplies",
+        "description": "Pet supplies",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/pet_supplies.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=eddf77f9f97e03507e543c22d5a16899301948202209b6a655b9724205178b8f"
+    },
+    {
+        "id": 7,
+        "name": "Clothes and accessories",
+        "description": "Clothes and accessories",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/clothes_and_accessories.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=93ea83067901e6241e7368dcd54062147ac1032173edf468a3e21cc47e422925"
+    },
+    {
+        "id": 10,
+        "name": "Cleaning equipment",
+        "description": "Cleaning equipment",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/soap_bottle.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=a2f7831f701947d4a887e1d28f7e239956b926b3b5bd6ed7cad85812a5840108"
+    },
+    {
+        "id": 13,
+        "name": "Sand and bathroom",
+        "description": "Sand and bathroom",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/sand_and_bathroom.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=769dda6ea3326632a85371bc511af530ab3985b261c0b073a378cf465118e032"
+    },
+    {
+        "id": 16,
+        "name": "Hygiene care",
+        "description": "Hygiene care",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/hygiene_care.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=047a54178eb0e865ee406019d3796b9333924a4a11d0d32098ed80906b8d03cb"
+    },
+    {
+        "id": 19,
+        "name": "Cat snacks",
+        "description": "Cat snacks",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/cat_snack.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=ade41ed3893a696a2ccf50d6f221061a6bc2799d1d358512664ca0907c4e84e8"
+    },
+    {
+        "id": 22,
+        "name": "Cat exercise",
+        "description": "Cat exercise",
+        "image": "https://s3.eco-deals.com/shopping-bucket/category/cat_exercise.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040238Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=64aa00922052becda7e5f2fa4c5198e358026f2366e82a9918191ac7239e626d"
+    }
+]

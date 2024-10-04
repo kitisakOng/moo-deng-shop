@@ -1,0 +1,60 @@
+- request:
+    url: /services/api/v1/sign-in
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/token.json
+- request:
+    url: /services/api/v1/product/banner
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/banner.json
+- request:
+    url: /services/api/v1/product/category
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/category.json
+- request:
+    url: /services/api/v1/product/category/[0-9]+
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/categoryId.json
+- request:
+    url: /services/api/v1/product/shopping-mall
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/shopping-mall.json
+- request:
+    url: /services/api/v1/product/recommended
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/recommended.json
+# - request:
+#     url: /services/api/v1/product/favorite
+#     method: GET
+#   response:
+#     status: 200
+#     file: ./stub_sample/fav.json
+- request:
+    url: /services/api/v1/product/favorite
+    method: GET
+  response:
+    status: 404
+    # file: ./stub_sample/fav.json
+- request:
+    url: /services/api/v1/profile
+    method: GET
+  response:
+    status: 200
+    file: ./stub_sample/profile.json
+- request:
+    url: /services/api/v1/profile
+    method: PATCH
+  response:
+    status: 200
+    file: ./stub_sample/patch_profile.json

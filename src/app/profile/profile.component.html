@@ -1,0 +1,50 @@
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+    <div nz-col nzLg="16" nzMd="18" nzSm="20" style="background-color: #FFEEE0; padding: 10px;">
+        <h1>My Profile</h1>
+    </div>
+</div>
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+    <div nz-col nzLg="5" nzMd="5" nzSm="6" style="background-color: white; margin-right: 10px;">
+        <div nz-row>
+            <div nz-col nzSpan="24" style="background-color: #f0f2f5; padding-bottom: 20px;">
+                <div nz-row nzAlign="middle" nzJustify="space-between">
+                    <div nz-col nzSpan="6" style="text-align: center;">
+                        <img src="../../assets/images/user1.png" alt="userProfile" width="50px" height="50px" />
+                    </div>
+                    <div nz-col nzSpan="17">
+                        <div nz-row>
+                            <div nz-col>
+                                <h3>Moo Deng</h3>
+                            </div>
+                        </div>
+                        <div nz-row>
+                            <div nz-col>
+                                <div nz-row>
+                                    <div nz-col>
+                                        <h5>แก้่ไขข้อมูลส่วนตัว</h5>
+                                    </div>
+                                    <div nz-col>
+                                        <span nz-icon nzType="edit" nzTheme="outline" style="cursor: pointer;"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div nz-row style="margin-top: 20px;">
+            <div nz-col nzSpan="24">
+                <ul nz-menu>
+                    <li nz-menu-item routerLink="/profile" nzMatchRouter>บัญชี</li>
+                    <li nz-menu-item routerLink="/profile/orders" nzMatchRouter>การสั่งซื้อล่าสุด</li>
+                    <li nz-menu-item routerLink="/profile/address" nzMatchRouter>ที่อยู่ที่บันทึกไว้</li>
+                    <li nz-menu-item (click)="signOut()">ออกจากระบบ</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div nz-col nzLg="11" nzMd="13" nzSm="14" style="background-color: white;">
+        <router-outlet></router-outlet>
+    </div>
+</div>

@@ -1,0 +1,145 @@
+[
+    {
+        "id": 4,
+        "code": "P001",
+        "name": "Bite Of Wild",
+        "description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "price": 1000.5,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=40070c3496182bc9c771585b850fd30d7f3bfd51b8b0fa73f5c26f5939e21a79",
+        "category_id": 1,
+        "mall_id": 1
+    },
+    {
+        "id": 7,
+        "code": "P002",
+        "name": "Pramy Supreme",
+        "description": "อาหารเม็ดแมว Mother/Kitten/Adult/Indoor/Skin&Coat สำหรับแมวทุกช่วงวัย",
+        "price": 100.5,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P002.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=3f787c3519815f3de6b855078af022abed7b72a29cf1e90303e723bf8376acb0",
+        "category_id": 4,
+        "mall_id": 4
+    },
+    {
+        "id": 10,
+        "code": "P003",
+        "name": "WHISKAS",
+        "description": "วิสกัส อาหารแมว ชนิดแห้ง แบบเม็ด – อาหารแมว สูตรแมวโต, 7 กก. สำหรับแมวโตอายุ 1 ปีขึ้นไป",
+        "price": 1001,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P003.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=fa195098bf83fe0779774896834f94825605646843739b7da9ecab0c06304008",
+        "category_id": 7,
+        "mall_id": 7
+    },
+    {
+        "id": 13,
+        "code": "P004",
+        "name": "Petheria",
+        "description": "อาหารแมว เพ็ทเทอเรีย ครบทุกสูตร ลดการเกินก้อนขน ไม่เค็ม ขนาด 1.5 กิโล",
+        "price": 100,
+        "rating": 3,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P004.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=fa45cdaaf037b81e7aba7894f229c6eb79b8be9b402b1a93b8f8328e2b6345a0",
+        "category_id": 10,
+        "mall_id": 10
+    },
+    {
+        "id": 16,
+        "code": "P005",
+        "name": "Whiskas Junior",
+        "description": "อาหารเม็ดสำหรับแมวอายุ 2-12 เดือน รส Ocean Fish (ปลาทะเล) 1.1Kg.",
+        "price": 199,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P005.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=8bb6801c564e1e81a28e88919ff8511c88b94ae4b0dab555dd262126225cd658",
+        "category_id": 1,
+        "mall_id": 13
+    },
+    {
+        "id": 19,
+        "code": "P006",
+        "name": "Purina One",
+        "description": "อาหารแมวพรีเมี่ยม เพียวริน่า วัน ขนาด 1.2 kg",
+        "price": 299,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P006.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=ee8f8021c67b4b0b5363f4b0d55ed7cec3e1455236878d3a30ecf96e5654b424",
+        "category_id": 4,
+        "mall_id": 16
+    },
+    {
+        "id": 22,
+        "code": "P007",
+        "name": "CatHoliday",
+        "description": "เพ็ทเทอเรีย petheria อาหารแมวแบบเม็ด ขนาด 1.5 กิโล",
+        "price": 499.5,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P007.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=e7f66cb52b40f3825fb305ce7f5f0a3a5f7f35eb9432c7df955a607d1d890a48",
+        "category_id": 7,
+        "mall_id": 19
+    },
+    {
+        "id": 25,
+        "code": "P008",
+        "name": "Royal Canin",
+        "description": "Hair & Skin Care รอยัลคานิน อาหารแมวโต สูตร ดูแลผิวหนัง เส้นขน อายุ 1 ปีขึ้นไป 2kg",
+        "price": 399,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P008.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=7014ca8c966ac276decfc071a699e02ef4f66a9aa57636be7a49c8aecd64287e",
+        "category_id": 10,
+        "mall_id": 22
+    },
+    {
+        "id": 28,
+        "code": "P009",
+        "name": "PURINA ONE",
+        "description": "เพียวริน่าวัน อาหารแมว ถุงขนาด 1.2kg ทุกสูตร เกรดพรีเมี่ยม อุดมด้วยสารอาหารที่เหมาะสมกับแมวในแต่ละช่วงวัย",
+        "price": 999,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P009.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=d75095b5898a4d55375e98a2073a5cb635d087e6bb0323e66f709ac52485edfa",
+        "category_id": 7,
+        "mall_id": 22
+    },
+    {
+        "id": 31,
+        "code": "P010",
+        "name": "Pramy",
+        "description": "พรามี่ อาหารแมวเปียก สูตรสำหรับลูกแมว แมวโต แมวสูงวัย ขนาด 70g.ไม่คละรส",
+        "price": 1999,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P010.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=616177c3a84c81c3580917e36cb6545fc2db84d70eb05988f0a88ec0ee3a4100",
+        "category_id": 10,
+        "mall_id": 19
+    },
+    {
+        "id": 34,
+        "code": "P011",
+        "name": "BUZZ BEYOND",
+        "description": "บัซซ์ อาหารแมว พรีเมียม สูตรเกรนฟรี อาหารชนิดเม็ด อาหารเม็ดแมว 1/1.2 Kg.",
+        "price": 789.5,
+        "rating": 5,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P011.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=3f6d7167656e306d2a1c1138d7cabf4c896d3923939ffe30bc18ab2b6923b3ad",
+        "category_id": 1,
+        "mall_id": 19
+    },
+    {
+        "id": 37,
+        "code": "P012",
+        "name": "Kaniva",
+        "description": "คานิว่า​ อาหารเม็ดสำหรับเเมว ทานยาก​ ไม่เค็ม​ อึไม่เหม็น ขนาด 1.3 - 1.5 กก.",
+        "price": 1189.5,
+        "rating": 4,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P012.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=4520259e8aab4b4e6f013394617c7517b4e4433caceea59eda7d0cc8fc13e73f",
+        "category_id": 10,
+        "mall_id": 22
+    },
+    {
+        "id": 40,
+        "code": "P013",
+        "name": "Buzz Netura",
+        "description": "อาหารแมว Holistic บัซซ์ สูตร โฮลิสติก เกรนฟรี แมวโต ลูกแมว ทุกช่วงวัย ไก่ / แซลมอน / Protein X ขนาด 1 กิโล",
+        "price": 1189.5,
+        "rating": 3,
+        "image": "https://s3.eco-deals.com/shopping-bucket/products/P013.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040356Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=b590f9133b69a569331aeb7f61665b725e74cdb81e2f3ba9f3c7c3228d942a69",
+        "category_id": 4,
+        "mall_id": 22
+    }
+]

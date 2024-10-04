@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Shopping Mall 1",
+        "description": "Shopping Mall 1",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S001.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=56c2636eda1e310bb579dde3fce143b21cb5b02a7043dfbcfdf87da48ed979ae"
+    },
+    {
+        "id": 4,
+        "name": "Shopping Mall 2",
+        "description": "Shopping Mall 2",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S002.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=b5d83ed3096fdf5f400605660f17af727c1b0d283e47a18d0489e9f915f483f1"
+    },
+    {
+        "id": 7,
+        "name": "Shopping Mall 3",
+        "description": "Shopping Mall 3",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S003.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=12fdadeb1b276e097f0be084ae501748460042485a478d43914af2f794fedd4e"
+    },
+    {
+        "id": 10,
+        "name": "Shopping Mall 4",
+        "description": "Shopping Mall 4",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S004.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=3f8ca4f710e14ee9056ffa2261c62ec89a590ab94249f25f48bf5842ac9f4933"
+    },
+    {
+        "id": 13,
+        "name": "Shopping Mall 5",
+        "description": "Shopping Mall 5",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S005.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=825498d2553aaa75935b6b0d449917d7d7f3448318093521a8c9fa60b5f5967b"
+    },
+    {
+        "id": 16,
+        "name": "Shopping Mall 6",
+        "description": "Shopping Mall 6",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S006.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=8b56e3c18bb3612eee37aa512d1764ca2788d07ea75d4b2c3ee4370d8874e9cc"
+    },
+    {
+        "id": 19,
+        "name": "Shopping Mall 7",
+        "description": "Shopping Mall 7",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S007.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=1433debf729eedd7eecce77dc8d8668fc86b866eff37655bea4c9e15d91d8b79"
+    },
+    {
+        "id": 22,
+        "name": "Shopping Mall 8",
+        "description": "Shopping Mall 8",
+        "image": "https://s3.eco-deals.com/shopping-bucket/shopping-mall/S008.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040310Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=6670bdf82046caa6c9a7dab61694c298c154ddbf647fa84c798c5b3775633c93"
+    }
+]

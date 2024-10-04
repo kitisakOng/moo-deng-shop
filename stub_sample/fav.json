@@ -1,0 +1,74 @@
+[
+    {
+        "id": 19,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-09-19T17:27:24.361+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    },
+    {
+        "id": 43,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-09-24T11:22:29.269+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    },
+    {
+        "id": 277,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-09-30T23:33:22.234+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    },
+    {
+        "id": 280,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-10-01T00:28:48.496+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    },
+    {
+        "id": 283,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-10-01T09:59:08.044+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    },
+    {
+        "id": 289,
+        "price": 1000,
+        "quantity": 2,
+        "favorite_date": "2024-10-02T12:49:20.262+07:00",
+        "product_code": "P001",
+        "product_name": "Bite Of Wild",
+        "product_description": "อาหารแมว 1KG Grain Free โปรตีน 42% 3 เนื้อฟรีซดราย ไก่ปลาแซลมอนเนื้อปลา สำหรับแมวทุกช่ว",
+        "product_rating": 5,
+        "product_image": "https://s3.eco-deals.com/shopping-bucket/products/P001.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T035305Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=9280f3b495b9c7a3b8c3dbbe2a4f41dc0c3297d53c25653a0f446f5db5f9e2d4",
+        "user_id": 7
+    }
+]

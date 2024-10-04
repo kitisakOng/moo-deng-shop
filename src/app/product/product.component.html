@@ -1,0 +1,98 @@
+<div nz-row style="margin-top: 20px;">
+    <div nz-col nzLg="16" nzMd="18" nzSm="20" nzOffset="2">
+        <nz-breadcrumb nzSeparator=">" [nzAutoGenerate]="true">
+            <nz-breadcrumb-item>
+                <a routerLink="">Home</a>
+            </nz-breadcrumb-item>
+            <nz-breadcrumb-item class="active">Product Detail</nz-breadcrumb-item>
+        </nz-breadcrumb>
+    </div>
+</div>
+<div nz-row nzJustify="space-around" style="margin-top: 20px; min-height: 500px;">
+    <div nz-col nzSpan="5" nzOffset="2">
+        <img [src]="product.image" [alt]="product.code" />
+    </div>
+    <div nz-col nzSpan="14">
+        <div nz-row>
+            <div nz-col nzLg="2" nzMd="2" nzSm="3" nzXs="4">
+                <div class="bestSellerTag" style="margin-top: 3px;">
+                    สินค้าขายดี
+                </div>
+            </div>
+            <div nz-col nzLg="22" nzMd="22" nzSm="21" nzXs="20">
+                {{product.name}}
+            </div>
+        </div>
+        <div nz-row>
+            <div nz-col nzSpan="24">
+                <span>
+                    {{product.rating | number:"1.1-2"}}
+                </span>
+                <span>
+                    <nz-rate [ngModel]="product.rating"></nz-rate>
+                </span>
+            </div>
+        </div>
+        <div nz-row
+            style="background: linear-gradient(90deg, rgba(249, 157, 32, 0.13) 34%, rgba(238, 91, 7, 0.13) 64%);">
+            <div nz-col nzSpan="24" style="margin-left: 10px; font-weight: 700; font-size: 18px;">
+                รายละเอียดสินค้า
+            </div>
+        </div>
+        <div nz-row style="margin-top: 15px;">
+            <div nz-col nzSpan="24" style="font-weight: 400; font-size: 18px;">
+                {{product.description}}
+            </div>
+        </div>
+    </div>
+    <div nz-col nzSpan="2">
+        <img src="../assets/images/share.png" alt="share" width="27px" height="26px" />
+    </div>
+</div>
+<div nz-row nzJustify="space-around" style="margin-top: 20px;">
+    <div nz-col nzSpan="10" nzOffset="14">
+        <form nz-form #orderForm="ngForm">
+            <nz-form-item>
+                <nz-form-label nzFor="quantity" nzNoColon="true" nzRequired="true" style="font-size: 15px;">Quantity</nz-form-label>
+                <nz-form-control nzHasFeedback nzErrorTip="Quantity is requried">
+                    <div nz-row>
+                        <div nz-col>
+                            <button nz-button (click)="decreaseQuantity()">-</button>
+                        </div>
+                        <div nz-col nzSpan="3">
+                            <input nz-input type="number" id="quantity" name="quantity"
+                                style="background-color: #FA7D27; color: white; text-align: center;"
+                                [(ngModel)]="quantity" required min="1"/>
+                        </div>
+                        <div nz-col>
+                            <button nz-button (click)="increaseQuantity()">+</button>
+                        </div>
+                    </div>
+                </nz-form-control>
+            </nz-form-item>
+        </form>
+    </div>
+</div>
+<div nz-row nzJustify="space-around" style="min-height: 130px;">
+    <div nz-col nzSpan="10" nzOffset="14">
+        <div nz-row>
+            <div nz-col nzSpan="3">
+            </div>
+            <div nz-col nzSpan="5">
+                <button nz-button (click)="addToCart(orderForm)">
+                    <span nz-icon nzType="shopping-cart" nzTheme="outline"></span>
+                    <span>
+                        Add to cart
+                    </span>
+                </button>
+            </div>
+            <div nz-col nzSpan="5">
+                <button nz-button nzType="primary"
+                    style="background: linear-gradient(85.85deg, #FF4D00 0%, #FD560B 30.38%, #F57B3A 67.23%, #F99D20 99.59%);"
+                    (click)="buyNow(orderForm)">Buy Now</button>
+            </div>
+        </div>
+    </div>
+    <div nz-col>
+    </div>
+</div>

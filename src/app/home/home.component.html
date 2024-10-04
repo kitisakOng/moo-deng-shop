@@ -1,0 +1,88 @@
+<nz-carousel nzAutoPlay="true" nzAutoPlaySpeed="100000">
+  @for (banner of banners; track banner) {
+  <div id="banner_{{banner.id}}" nz-carousel-content>
+    <div class="carouselContent">
+      <img [src]="banner.image" [alt]="banner.description" height="500px" style="max-width: 1232px;width: 100em;" />
+    </div>
+  </div>
+  }
+</nz-carousel>
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+  <div nz-col nzLg="16" nzMd="18" nzSm="20">
+    <nz-card nzTitle="Shopping Mall" [nzExtra]="shoppingExtra">
+      @for (shoppingMall of shoppingMalls; track shoppingMall) {
+      <div nz-card-grid [ngStyle]="shoppingMallGrid">
+        <img routerLink="/shopping-mall/{{shoppingMall.id}}" [src]="shoppingMall.image" [alt]="shoppingMall.name"
+          style="width: 100%; height: 100%; border-radius: 12px;" />
+      </div>
+      }
+    </nz-card>
+    <ng-template #shoppingExtra>
+      <div nz-flex nzAlign="center">
+        <span>
+          <a routerLink="/shopping-mall">see more</a>
+        </span>
+        <span nz-icon nzType="right" nzTheme="outline" style="margin-left: 3px;font-size: 20px;"></span>
+      </div>
+    </ng-template>
+  </div>
+</div>
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+  <div nz-col nzLg="16" nzMd="18" nzSm="20">
+    <nz-card id="categoryCard" nzTitle="Category">
+      <div nz-row nzJustify="center" style="min-height: 160px;">
+        @for (category of categories; track category) {
+        <div nz-col nzLg="3" nzSm="6" style="margin: 5px 0px;">
+          <div class="categoryItem">
+            <img routerLink="/shopping-mall/{{category.id}}" [src]="category.image" [alt]="category.name"
+              style="width: 49px; height: 49px;" />
+            <p style="font-size: 15px; font-weight: 400;color:#F1F1F1">{{category.name}}</p>
+          </div>
+        </div>
+        }
+      </div>
+    </nz-card>
+  </div>
+</div>
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+  <div nz-col nzLg="16" nzMd="18" nzSm="20">
+    <nz-card id="Recommended" nzTitle="Recommended">
+      <div nz-row style="min-height: 160px;">
+        @for (recommended of recommendeds; track recommended) {
+        <div nz-card-grid [ngStyle]="recommendedGrid">
+          <div class="bestSellerTag" style="position: absolute;">
+            สินค้าขายดี
+          </div>
+          <img routerLink="/products/{{recommended.id}}" [src]="recommended.image" [alt]="recommended.name"
+            style="width: 100%; height: 183.44px;" />
+          <div nz-row nzJustify="center">
+            <div nz-col nzSpan="19">
+              <p style="font-size: 10px; font-weight: 400;color:#000000">{{recommended.name}}</p>
+            </div>
+            <div nz-col nzSpan="3" style="text-align: end;">
+              @if (recommended.fav_id) {
+              <button nz-button nzSize="small" style="border: 0px;" (click)="unFavoriteProduct(recommended)">
+                <span nz-icon nzType="heart" nzTheme="fill"></span>
+              </button>
+              } @else {
+                <button nz-button nzSize="small" style="border: 0px;" (click)="favoriteProduct(recommended)">
+                  <span nz-icon nzType="heart"></span>
+                </button>
+              }
+            </div>
+          </div>
+          <div nz-row nz-row nzJustify="center" nzAlign="bottom" style="margin-top: 12px;">
+            <div nz-col nzSpan="15">
+              <p style="font-size: 10px; font-weight: 700; margin: 0px; color:#FF4D00">{{recommended.price | currency:
+                "THB"}}</p>
+            </div>
+            <div nz-col nzSpan="7" style="text-align: end;">
+              <nz-rate class="homeRating" [ngModel]="recommended.rating"></nz-rate>
+            </div>
+          </div>
+        </div>
+        }
+      </div>
+    </nz-card>
+  </div>
+</div>

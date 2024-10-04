@@ -1,0 +1,74 @@
+.appBar {
+    height: 104px;
+    padding: 0px;
+    line-height: 100%;
+}
+
+.appBar .icon {
+    width: 32px;
+    height: 32px;
+}
+
+.appBar .user-icon {
+    width: 47px;
+    height: 47px;
+    margin-right: 3em;
+}
+
+.appBar ul {
+    list-style: none;
+    background-color: transparent;
+    border: none;
+}
+
+.appBar ul li {
+    position: relative;
+    float: left;
+    width: 16.66%;
+    margin: 3px 0;
+    padding: 10px 0 0;
+    overflow: hidden;
+    color: #555;
+    text-align: center;
+    list-style: none;
+    background-color: inherit;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.ant-menu-item-selected {
+    border-bottom: 4px solid white;
+}
+
+.appBar ul li .icon {
+    display: inline-flex;
+}
+
+.appBar ul li .icon-text {
+    display: block;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.logo {
+    width: 138px;
+    height: 77.72px;
+    margin-top: 12px;
+    left: 10px;
+}
+
+.login-modal-btn {
+    width: 100%;
+}
+
+.login-btn {
+    background: linear-gradient(90deg, #FF4D00 0%, #FBA01A 100%);
+}
+
+.input-login-modal {
+    border-bottom: 1px solid #d9d9d9;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}

@@ -1,0 +1,23 @@
+nz-carousel {
+  height: 530px;
+  margin-top: 25px;
+}
+
+.carouselContent {
+  display: flex;
+  justify-content: center;
+}
+
+.categoryItem {
+  background: linear-gradient(19.04deg, #FF4D00 0%, #F99D20 100%);
+  height: 100%;
+  padding-top: 45px;
+  margin: 0px 1em;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+}
+
+nz-rate {
+  margin-right: 5px
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Banner1",
+        "description": "Banner1",
+        "image": "https://s3.eco-deals.com/shopping-bucket/banner/B001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040122Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=f93e60eb53e79c6e1ddd7653a5b7f5497b5c7332c1e5ea96686aed226fd70ce2"
+    },
+    {
+        "id": 4,
+        "name": "Banner2",
+        "description": "Banner2",
+        "image": "https://s3.eco-deals.com/shopping-bucket/banner/B002.avif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9E9QBO149ACWGBRO6VELIWF9%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T040122Z&X-Amz-Expires=10000&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B&X-Amz-Signature=91a5706c8b30de9987ac6d070b847e5091bfd73e4741191d3e68b35b36fb38fd"
+    }
+]

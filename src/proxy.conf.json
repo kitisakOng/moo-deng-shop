@@ -1,0 +1,6 @@
+{
+  "/services/api/v1": {
+    "target": "http://127.0.0.1:9002/services/api/v1",
+    "secure": false
+  }
+}

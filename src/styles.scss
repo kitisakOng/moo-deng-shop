@@ -1,1 +1,74 @@
 /* You can add global styles to this file, and also import other style files */
+.curve {
+    border-radius: 1em 1em;
+    // border: none;
+}
+
+.ant-carousel .slick-dots li button {
+    background: #FFEEE0 !important;
+    opacity: 1;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: none;
+}
+
+.ant-carousel .slick-dots li.slick-active button {
+    background: #FF4D00 !important;
+    height: 10px;
+    width: 100%;
+    border-radius: 5px 5px;
+    border: none;
+}
+
+.ant-card {
+    background: transparent;
+}
+
+.ant-card-head {
+    margin-bottom: 10px;
+    background-color: #FFEEE0;
+}
+
+.ant-card-head-title {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.ant-card-body {
+    background: #FFFFFF;
+}
+
+.anticon-loading {
+    color: white !important;
+}
+
+.ant-rate-star:not(:last-child) {
+    margin-right: 0px
+}
+
+nz-rate.homeRating>ul>li>div>div.ant-rate-star-second>span {
+    font-size: 6px;
+}
+
+nz-breadcrumb-item,
+nz-breadcrumb-separator {
+    font-size: 20px;
+}
+
+nz-breadcrumb-item.active {
+    color: #FF4D00 !important;
+}
+
+.bestSellerTag {
+    background: #FF4D00;
+    color: #FFFFFF;
+    font-size: 8px;
+    width: 5%;
+    min-width: 50px;
+    text-align: center;
+}
+
+nz-rate>ul>li>div>div.ant-rate-star-second>span {
+    font-size: 10px;
+}

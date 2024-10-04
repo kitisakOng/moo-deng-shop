@@ -1,0 +1,57 @@
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+    <div nz-col nzLg="16" nzMd="18" nzSm="20">
+        <nz-breadcrumb nzSeparator=">">
+            <nz-breadcrumb-item>
+                <a routerLink="">Home</a>
+            </nz-breadcrumb-item>
+            <nz-breadcrumb-item class="active">Shopping Mall</nz-breadcrumb-item>
+        </nz-breadcrumb>
+    </div>
+</div>
+<div nz-row nzJustify="center" style="margin-top: 20px;">
+    <div nz-col nzLg="16" nzMd="18" nzSm="20">
+        <nz-card nzTitle="Shopping Mall">
+            <div nz-row nzJustify="space-around" nzAlign="middle">
+                @for (shoppingMall of shoppingMalls$ | async; track shoppingMall) {
+                <div nz-card-grid nz-col nzSpan="11" style="margin: 10px 0px;border-radius: 20px;">
+                    <div nz-row style="height: 106px">
+                        <div nz-col nzSpan="6">
+                            <img routerLink="/shopping-mall/{{shoppingMall.id}}" [src]="shoppingMall.image"
+                                [alt]="shoppingMall.name" style="width: 100%; height: 90px; border-radius: 12px;" />
+                        </div>
+                        <div nz-col nzSpan="17" nzOffset="1">
+                            <div nz-row>
+                                <div nz-col nzSpan="22">
+                                    <div class="bestSellerTag">
+                                        สินค้าขายดี
+                                    </div>
+                                </div>
+                                <div nz-col nzSpan="2">
+                                </div>
+                            </div>
+                            <div nz-row style="margin: 5px 0px;">
+                                <div nz-col nzSpan="24">
+                                    {{shoppingMall.name}}
+                                </div>
+                            </div>
+                            <div nz-row>
+                                <div nz-col nzSpan="24">
+                                    {{shoppingMall.description}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </nz-card>
+        <ng-template #shoppingExtra>
+            <div nz-flex nzAlign="center">
+                <span>
+                    <a routerLink="/shopping-mall">see more</a>
+                </span>
+                <span nz-icon nzType="right" nzTheme="outline" style="margin-left: 3px;font-size: 20px;"></span>
+            </div>
+        </ng-template>
+    </div>
+</div>
