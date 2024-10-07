@@ -91,8 +91,10 @@ export class AppComponent {
         this.isVisible = false
         this.isSubmit = false
         localStorage.setItem("token", data.token)
+        this.message.success("Login Success")
       }, error: err => {
         this.isSubmit = false
+        this.message.error(err.error)
       }
     })
   }
